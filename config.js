@@ -1,7 +1,7 @@
 const {createClient} =supabase
 // console.log(supabase)
-const supabaseUrl="https://aqldbyqnejfoqqdeylto.supabase.co"
-const supabaseKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFxbGRieXFuZWpmb3FxZGV5bHRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcxMTE4MjIsImV4cCI6MjA1MjY4NzgyMn0.DAoC4VPloUwDgchpUKkVn1XHW2YFlCX7z3o4qOVJhD4"
+const supabaseUrl="https://csfigvjdpiwrkojsfsnh.supabase.co"
+const supabaseKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNzZmlndmpkcGl3cmtvanNmc25oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc2NjkyMDksImV4cCI6MjA1MzI0NTIwOX0.csTGlVo_IB1n_6MKj9lG1HmIeBxuyV1oTPVnVsY7UK4"
 
 const supabaseClient = createClient(supabaseUrl, supabaseKey)
 
